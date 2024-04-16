@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/UIT/nhungkhongday/thuchanh/lab3/lab3-ble-main/build/CMakeFiles/bootloader
+D:/UIT/nhungkhongday/thuchanh/lab3/lab3-ble-main/build/CMakeFiles/bootloader.rule
+D:/UIT/nhungkhongday/thuchanh/lab3/lab3-ble-main/build/CMakeFiles/bootloader-complete.rule
+D:/UIT/nhungkhongday/thuchanh/lab3/lab3-ble-main/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/UIT/nhungkhongday/thuchanh/lab3/lab3-ble-main/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/UIT/nhungkhongday/thuchanh/lab3/lab3-ble-main/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/UIT/nhungkhongday/thuchanh/lab3/lab3-ble-main/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/UIT/nhungkhongday/thuchanh/lab3/lab3-ble-main/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/UIT/nhungkhongday/thuchanh/lab3/lab3-ble-main/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/UIT/nhungkhongday/thuchanh/lab3/lab3-ble-main/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
